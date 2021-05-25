@@ -1,6 +1,6 @@
 # console.log-alias
 
-##a minimal lightweight console.log() alias for those who prefer to write this feature in their preferred language of choice (print, printf, echo...)
+##### a minimal lightweight console.log() alias for those who prefer to write this feature in their preferred language of choice (print, printf, echo...)
 
 ## Installation
 
